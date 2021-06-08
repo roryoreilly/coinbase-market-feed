@@ -1,5 +1,5 @@
 
-# Coinbase Pro Market order book feed
+# Coinbase Pro Order Book feed
 This project subscribes to Coinbase Pro Web Socket. The feed will produce messages
 for the order book of the various products that Coinbase Pro hosts (BTC-USD, BTC_USDT, ETH-USDT etc.).
 
